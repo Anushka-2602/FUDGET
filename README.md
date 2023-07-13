@@ -4,6 +4,6 @@
 
 - Visualise Data with doughnut chart
 
-# What I learned
+# What I learnt
 
 - Using canvas for creating doughnut chart 
