@@ -1,4 +1,4 @@
-# FUDGET
+# FUDGET!
 
 - Track Expense and Savings
 
